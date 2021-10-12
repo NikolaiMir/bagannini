@@ -1,0 +1,7 @@
+.main__info {
+  display: flex;
+  font-size: 26px;
+  line-height: 33px;
+  align-items: center;
+  justify-content: center;
+}
